@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 Currently working on: AI/ML journey, grinding on Kaggle, and learning like there's no tomorrow.<br>👯 Collaborating on: Web dev, app dev—learning while building cool stuff, obviously.<br>🤝 Looking for: Help with DSA, ADSA, AI/ML tech, and anything that makes me better.<br>🌱 Learning: C++, Python, JavaScript, MongoDB, SQL, AI/ML (yup, I'm diving deep).<br>💬 Ask me about: Space, astrophysics—if you're into the big questions.<br>⚡ Fun fact: Always pushing to level up—AI/ML, Kaggle, and bey
+### 💫 About Me  
+🚀 **Grinding:** AI/ML full-time — Kaggle, crash courses, and hands-on stuff.  
+🛠️ **Tech I use:** Python, C, C++, JS, HTML  
+📚 **Learning:** AI/ML + leveling up daily  
+🤝 **Collab on:** Anything that builds skills — dev, DSA, ML  
+💬 **Talk to me about:** Space, astrophysics, or wild “what ifs”  
+⚡ **Fun fact:** Obsessed with growth — no zero days.
+
 
 
 ## 🌐 Socials:
